@@ -1,4 +1,5 @@
 package pl.gov.coi.example.calc;
+//some info here
 
 /**
  * @author <a href="mailto:krzysztof.suszynski@coi.gov.pl">Krzysztof Suszynski</a>
